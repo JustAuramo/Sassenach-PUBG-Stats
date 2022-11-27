@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://codesandbox.io">
-    <img src="https://i.imgur.com/a3Zhb51.png" height="300px">
+    <img src="https://assets.ifttt.com/images/channels/1607152633/icons/monochrome_large.png" height="300px">
   </a>
 </p>
 
@@ -43,5 +43,5 @@ sourced.
 
 <a href="https://www.chromaticqa.com/"><img src="https://media.macosicons.com/parse/files/macOSicons/17cbf19f43b3edbc9cffe73c4a98b80f_low_res_Trakt__alt_.png" width="120"/></a>
 
-Thanks to [Chromatic](https://www.chromaticqa.com/) for providing the visual
+Thanks to [Trakt](https://trakt.tv/) for providing the visual
 testing platform that helps us catch unexpected changes.
